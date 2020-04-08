@@ -1,0 +1,17 @@
+{
+    "env":{
+      "mongoURI": "mongodb+srv://sila:v3ulQLfD02RnNY21@cluster0-en67d.mongodb.net/stilldeveloping?retryWrites=true&w=majority",
+      "MAPBOX_API_KEY": "pk.eyJ1IjoiYnNpbGFrYXltYWsiLCJhIjoiY2s3aWJscnFwMGhwMTNvbnh2bjhxMGliMSJ9.jCsNT84JezjHr2eBHpt4IA",
+      "JWT_KEY": "sila_secret_key",
+      "CLOUD_NAME": "dbe9qqzrl",
+      "CLOUDINARY_API_KEY": "445583714443826",
+      "CLOUDINARY_API_SECRET": "ZNCDRtB8QssG8TZxLQE1kumlrXk",
+      "SEND_GRID_API_KEY": "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",
+      "AUTH_GOOGLE_CLIENT_ID": "724255943220-55qgl64fm1sqabt1dlqjjgpc5862iotb.apps.googleusercontent.com",
+      "AUTH_GOOGLE_SECRET": "_VZBaLabCMpq1hGpg5F7QuIY",
+      "AUTH_FACEBOOK_CLIENT_ID": "2542328695987539",
+      "AUTH_FACEBOOK_SECRET": "9440f3449835623203b2a692764654cf",
+      "AUTH_REDIRECT_PATH": "http://localhost:3000"
+    }
+  }
+  
