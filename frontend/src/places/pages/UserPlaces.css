@@ -1,0 +1,42 @@
+.place-overlay-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  margin: auto;
+  z-index: 2;
+}
+
+.place-overlay {
+  width: 100%;
+  height: 100vh;
+  background-color: #4d4d4d;
+  transition: all ease-in-out 4s;
+  position: absolute;
+  top: 0;
+  z-index: 3;
+}
+
+.inline {
+  display: inline;
+}
+
+.add-place-button{
+  border: 2px solid #4d4d4d;
+  width: 30%;
+  padding: 1em;
+  margin: auto;
+  color:#4d4d4d;
+}
+
+.add-place-button:hover{
+  color:#F8DF00;
+  cursor: pointer;
+  border-color: #F8DF00;
+}
+.sort-filter-layout {
+  color: white
+
+}
